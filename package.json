@@ -1,0 +1,38 @@
+{
+  "name": "purple-tipper",
+  "displayName": "Purple Tipper",
+  "description": "Immerse yourself in the Purple Tipper Dark Theme for Visual Studio Code, designed to enhance readability, boost productivity, and inspire creativity with its elegant purple hues.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "keywords": [
+    "theme",
+    "prrple tipper",
+    "purple tipper dark theme",
+    "dark theme",
+    "purple theme",
+    "purple dark theme",
+    "Purple Dark Theme",
+    "waleedcodes",
+    "waleed codes",
+    "dark",
+    "waleedcodes theme",
+    "waleed codes dark theme",
+    "waleedcode theme"
+  ],
+  "icon": "Theme-logo.jpg",
+  "categories": [
+    "Themes",
+    "Extension Packs"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "waleedcodes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/waleedcodes-color-theme.json"
+      }
+    ]
+  }
+}
