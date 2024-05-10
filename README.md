@@ -24,10 +24,6 @@ Experience the Purple Dark Theme in action on the Visual Studio Code Marketplace
 
 <img src="./images/img1.png" alt="">
 
-# HTML Preview Screenshot:
-
-<img src="./images/img2.png" alt="">
-
 # Contributors:🧔
 
 - Waleed Ishfaq
