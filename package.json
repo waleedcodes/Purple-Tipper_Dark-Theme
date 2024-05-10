@@ -6,6 +6,15 @@
   "engines": {
     "vscode": "^1.89.0"
   },
+  "publisher": "waleedcodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waleedcodes/Purple-Tipper_Dark-Theme"
+  },
+  "author": {
+    "name": "Waleed Codes"
+  },
+  "homepage": "",
   "keywords": [
     "theme",
     "prrple tipper",
