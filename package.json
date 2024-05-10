@@ -2,7 +2,7 @@
   "name": "purple-tipper",
   "displayName": "Purple Tipper",
   "description": "Immerse yourself in the Purple Tipper Dark Theme for Visual Studio Code, designed to enhance readability, boost productivity, and inspire creativity with its elegant purple hues.",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -17,7 +17,8 @@
   "homepage": "",
   "keywords": [
     "theme",
-    "prrple tipper",
+    "purpletipper",
+    "purple tipper",
     "purple tipper dark theme",
     "dark theme",
     "purple theme",
